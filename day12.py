@@ -1,6 +1,3 @@
-from re import A
-
-
 exam = ("Hello", "This is Python", "Bye")
 
 examOne = len(exam[0])
